@@ -3,7 +3,7 @@
 ## **How to use**
 
 ```
-git clone https://github.com/Cheerpipe/faster-whisper-cuda-docker
+git clone https://github.com/andzejsp/faster-whisper-cuda-docker
 ```
 ```
 cd faster-whisper-cuda-docker
