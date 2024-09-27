@@ -50,7 +50,7 @@ watch -n0.1 nvidia-smi
 
 You should see something like this:
 
-![image](https://github.com/Cheerpipe/faster-whisper-cuda-docker/assets/972765/98cd9518-5044-469d-96b0-d0d083044831)
+![image](https://github.com/user-attachments/assets/b6577f7c-0d79-4b48-be76-20f7074766e7)
 
  
 ### **For reference keep an eye out for latest whisper python package:**
