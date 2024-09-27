@@ -1,8 +1,8 @@
-FROM nvidia/cuda:11.0.3-cudnn8-runtime-ubuntu20.04
+FROM nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu22.04
 
 # Install Whisper
 WORKDIR /usr/src
-ARG WHISPER_VERSION='1.0.1'
+ARG WHISPER_VERSION='2.0.0'
 
 RUN \
     apt-get update \
